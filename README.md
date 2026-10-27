@@ -193,13 +193,13 @@ We develop practical solutions across mobile, web, backend, AI, and digital prod
     <img src="https://img.shields.io/badge/LINKEDIN-Follow%20Our%20Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Company"/>
   </a>
 
-  <a href="[https://www.instagram.com](https://www.instagram.com/asktechsolutions/)/">
+  <a href="https://www.instagram.com/asktechsolutions">
     <img src="https://img.shields.io/badge/INSTAGRAM-Follow%20Us-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
   <br/><br/>
 
-  <a href="https://github.com/ASK-TECH-SOLUTIONS">
+  <a href="https://github.com/ASKTECHSOLUTIONS">
     <img src="https://img.shields.io/badge/GITHUB-Explore%20Our%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Organization"/>
   </a>
 
