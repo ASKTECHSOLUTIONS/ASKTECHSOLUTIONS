@@ -193,7 +193,7 @@ We develop practical solutions across mobile, web, backend, AI, and digital prod
     <img src="https://img.shields.io/badge/LINKEDIN-Follow%20Our%20Company-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Company"/>
   </a>
 
-  <a href="https://www.instagram.com/">
+  <a href="[https://www.instagram.com](https://www.instagram.com/asktechsolutions/)/">
     <img src="https://img.shields.io/badge/INSTAGRAM-Follow%20Us-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
